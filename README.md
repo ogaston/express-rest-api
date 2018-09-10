@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/Shopify/slate.svg?branch=master)](https://travis-ci.org/Shopify/slate) [![npm version](https://badge.fury.io/js/%40shopify%2Fslate-tools.svg)](https://badge.fury.io/js/%40shopify%2Fslate-tools)
-
-> **Slate v1.0 is currently in beta.** Expect more bugs than a final release. 
+> **Lil Express is currently in beta.** Expect more bugs than a final release. 
 
 >
 
