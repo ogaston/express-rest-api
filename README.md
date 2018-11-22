@@ -19,7 +19,7 @@ const authorRoute = lil.route(Author, "Author")
 
 ```
 
-In this case the *(Author)* variable is a MongoDB model.
+> In this case the *Author* variable is a MongoDB model.
 
 ## Contributing
 
