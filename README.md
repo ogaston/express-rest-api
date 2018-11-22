@@ -17,7 +17,7 @@ const authorRouter = require('./routes/genericRoutes')(Author, "Author")
 
 ```
 
-You must require the genericRoute.js file, and call the inmidiatly function with the Modal object, and the name as string 
+You must require the genericRoute.js file, and call the inmidiatly function with the Model object, and the name as string 
 
 ## Contributing
 
