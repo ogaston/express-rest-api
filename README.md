@@ -13,11 +13,13 @@ It's as simple as:
 ```javascript
 const express = require('express');
 
-const authorRouter = require('./routes/genericRoutes')(Author, "Author")
+const lil = require('./lil-express')
+
+const authorRoute = lil.route(Author, "Author")
 
 ```
 
-You must require the genericRoute.js file, and call the inmidiatly function with the Model object, and the name as string 
+In this case the *(Author)* variable is a MongoDB model.
 
 ## Contributing
 
