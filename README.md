@@ -15,7 +15,7 @@ const express = require('express');
 
 const lil = require('./lil-express')
 
-const authorRoute = lil.route(Author, "Author")
+const authorRoute = lil.createRoute(Author, "Author")
 
 ```
 
