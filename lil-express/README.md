@@ -11,7 +11,6 @@ The Lil-Express is a small repository to use together [ExpressJS](http://express
 It's as simple as:
 
 ```javascript
-const express = require('express');
 
 const lil = require('./lil-express')
 
