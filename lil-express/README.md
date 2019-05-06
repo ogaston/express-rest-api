@@ -12,7 +12,7 @@ It's as simple as:
 
 ```javascript
 
-const lil = require('./lil-express')
+const lil = require('lil-express')
 
 const authorRoute = lil.createRoute(Author, "Author")
 
