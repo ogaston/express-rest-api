@@ -1,0 +1,30 @@
+{
+  "name": "@ogaston/lil-express",
+  "version": "0.0.3",
+  "description": "is a small package to use together expressjs to get easier creating generics controllers and routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogaston/lil-express.git"
+  },
+  "keywords": [
+    "express",
+    "api-rest"
+  ],
+  "author": "Omar Gaston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogaston/lil-express/issues"
+  },
+  "homepage": "https://github.com/ogaston/lil-express#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "mongoose": "^5.2.3"
+  }
+}
